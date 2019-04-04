@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-nej",
+  "version": "0.0.1",
+  "description": "babel-plugin-nej",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tswordyao/babel-plugin-nej.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "nej"
+  ],
+  "author": "Evan Yao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tswordyao/babel-plugin-nej/issues"
+  },
+  "homepage": "https://github.com/tswordyao/babel-plugin-nej#readme"
+}
