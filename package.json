@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-nej",
+  "name": "babel-plugin-nej-pack",
   "version": "0.0.1",
-  "description": "babel-plugin-nej",
+  "description": "babel-plugin-nej-pack",
   "main": "dist/index.js",
   "scripts": {
     "test": "node test.js"
