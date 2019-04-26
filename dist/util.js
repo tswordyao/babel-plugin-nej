@@ -37,7 +37,7 @@ function createNejRequire(id,url) {
         'var',
         [
             t.variableDeclarator(
-                id || t.identifier( ('_nej_'+Math.random()*10+Date().now()).slice(8) ),
+                id || t.identifier( ('_nej_'+Math.random()*10+Date.now()).slice(8) ),
                 t.callExpression(
                     t.identifier(NEJ_require),
                     [t.stringLiteral(url)]
